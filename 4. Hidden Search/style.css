@@ -15,7 +15,7 @@ body {
 .search {
     position: relative;
     height: 50px;
-
+    box-shadow: 5px 5px 10px #020d18;
 }
 
 .search .input {
@@ -52,4 +52,5 @@ body {
 
 .search.active .btn {
     transform: translateX(198px);
+    box-shadow: 5px 5px 10px #020d18;
 }
